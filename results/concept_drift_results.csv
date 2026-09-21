@@ -1,0 +1,4 @@
+Agent,Pre-change mean payoff,Post-change mean payoff,Final-100 mean payoff,P(correct action) 25 after change,P(correct action) 50 after change,P(correct action) 100 after change,Adaptation delay to >=90% (20 rounds sustained),Post-change cumulative pseudo-regret
+Full-history Bayes,8.395715,3.748813,4.347724,0.0,0.0,0.0,,2324.9755199999995
+Sliding-window Bayes (100),8.392796,7.9080906,8.400716,5e-05,0.3899,1.0,60.0,246.37968000000004
+Constant-step Q-learning,6.50606,7.086713,8.091731,0.1214,0.32125,0.5519,315.0,656.7012199999999
